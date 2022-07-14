@@ -1,4 +1,4 @@
--name:
+-name:my
 ---
 - name: Deploy artifact to the environment
   hosts: "{{env}}"
